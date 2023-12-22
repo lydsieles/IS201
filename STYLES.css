@@ -1,0 +1,62 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(1, 146, 25);
+    color: rgb(8, 73, 13);
+    
+    
+        text-align: center;
+    
+    
+    background-image: url("https://www.sykescottages.co.uk/inspiration/wp-content/uploads/Scotland-small-2400x1573.jpg");
+    /* background-image: url("background.jpeg"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a {
+    color: rgb(6, 67, 8);
+    
+}
+
+a:visited {
+    color: brown;
+}
+
+img {
+    display: block;
+    border: solid rgb(254, 254, 254) 3px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 50%;
+}
+h1 {
+    
+    text-align: center;
+}
+
+h3 {
+     
+        text-align: center;
+}
+
+.lotr {
+    display: block;
+    margin: auto;
+    font-family: cursive;
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+    border: dotted 3px fuchsia;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+.lotr:hover {
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: line-through;
+    font-size: 300%;
+    background-color: black;
+    color: aqua;
+    border: solid orange 10px;}
